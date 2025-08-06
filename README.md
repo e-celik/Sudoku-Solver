@@ -1,0 +1,1 @@
+A web app that allows users to submit images of sudoku puzzles to be solved. A python webserver will parse the image using a computer vision model, and solve the it by reducing it to an instance of SAT, which will be solved by a SAT-solving library.
